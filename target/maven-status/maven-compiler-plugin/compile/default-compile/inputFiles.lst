@@ -1,0 +1,12 @@
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/TrabalhojwtApplication.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/model/ERole.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/model/Role.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/model/User.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/repository/RoleRepository.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/repository/UserRepository.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/SecurityConfig.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/jwt/AuthEntryPointJwt.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/jwt/AuthTokenFilter.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/jwt/JwtUtils.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/services/UserDetailsImpl.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/services/UserDetailsServiceImpl.java
