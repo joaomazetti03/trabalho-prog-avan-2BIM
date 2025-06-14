@@ -1,9 +1,17 @@
 /home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/TrabalhojwtApplication.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/config/DataInitializer.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/controller/AuthController.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/controller/TestController.java
 /home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/model/ERole.java
 /home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/model/Role.java
 /home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/model/User.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/payload/request/LoginRequest.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/payload/request/SignupRequest.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/payload/response/JwtResponse.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/payload/response/MessageResponse.java
 /home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/repository/RoleRepository.java
 /home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/repository/UserRepository.java
+/home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/KeyGenerator.java
 /home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/SecurityConfig.java
 /home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/jwt/AuthEntryPointJwt.java
 /home/joaomazetti/Desktop/trabalho-prog-avan-2BIM/src/main/java/com/example/trabalhojwt/security/jwt/AuthTokenFilter.java

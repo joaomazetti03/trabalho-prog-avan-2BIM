@@ -60,7 +60,7 @@ public class AuthController {
                             content = @Content(mediaType = "application/json", schema = @Schema(implementation = MessageResponse.class)))
             })
     @PostMapping("/signin")
-    public ResponseEntity<?> authenticateUser(@Valid @RequestBody LoginRequest loginRequest) {
+    public ResponseEntity<?> authenticateUser(/*@Valid*/ @RequestBody LoginRequest loginRequest) {
 
         Authentication authentication = authenticationManager.authenticate(
                 new UsernamePasswordAuthenticationToken(loginRequest.getUsername(), loginRequest.getPassword()));
@@ -90,7 +90,7 @@ public class AuthController {
                             content = @Content(mediaType = "application/json", schema = @Schema(implementation = MessageResponse.class)))
             })
     @PostMapping("/signup")
-    public ResponseEntity<?> registerUser(@Valid @RequestBody SignupRequest signUpRequest) {
+    public ResponseEntity<?> registerUser(/*@Valid*/ @RequestBody SignupRequest signUpRequest) {
 
         if (userRepository.existsByUsername(signUpRequest.getUsername())) {
             return ResponseEntity
